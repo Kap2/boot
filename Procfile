@@ -1,1 +1,1 @@
-worker: node mcbot.js alphamcbot
+worker: node mcbot.js 
