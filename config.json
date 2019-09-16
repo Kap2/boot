@@ -1,5 +1,5 @@
 {
 	"token":"process.env.BOT_TOKEN",
-	"ip":"play.alphanetworkmc.com",
+	"ip":"mc.alphanetworkmc.com",
 	"port":""
 }
